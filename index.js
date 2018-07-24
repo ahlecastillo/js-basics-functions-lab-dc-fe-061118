@@ -10,3 +10,4 @@ function distanceFromHqInFeet(someValue){
 function distanceTravelledInFeet(x,y){
   return ((Math.abs(x-y))* 264);
 }
+function 
