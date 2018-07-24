@@ -20,7 +20,7 @@ function calculatesFarePrice(x,y) {
     return (((Math.abs(x-y)) * 264) * 2);
   }
   if (((Math.abs(x-y))* 264) >= 2001 && ((Math.abs(x-y))* 264) <= 2500) {
-    return "No can do.";
+    return ;
   }
 }
 }
