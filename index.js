@@ -24,5 +24,6 @@ function calculatesFarePrice(x,y) {
     return 25
   }
   else if  (((Math.abs(x-y))* 264) > 2500
+  return "cannot travel that far"
 }
 }
