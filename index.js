@@ -13,7 +13,7 @@ function distanceTravelledInFeet(x,y){
 function calculatesFarePrice() {
   
   if (someValue <= 400){
-    return "This one is on me!";
+    return 0;
  } 
   if (someValue >= 2000 && someValue <= 2500) {
     return "I will gladly take your thirty bucks.";
