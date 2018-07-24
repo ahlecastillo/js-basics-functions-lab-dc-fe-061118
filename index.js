@@ -2,6 +2,6 @@
 function distanceFromHqInBlocks(someValue) {return Math.abs(someValue - 42);
 }
 
-function outer distanceFromHqInFeet(someValue){
+function distanceFromHqInFeet(someValue){
  distanceFromHqInBlocks(someValue);
 }
