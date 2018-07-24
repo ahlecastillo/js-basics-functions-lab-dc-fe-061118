@@ -8,5 +8,5 @@ function distanceFromHqInFeet(someValue){
 }
 
 function distanceTravelledInFeet(x,y){
-  
+  return 
 }
