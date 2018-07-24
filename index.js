@@ -12,7 +12,7 @@ function distanceTravelledInFeet(x,y){
 }
 function calculatesFarePrice(x,y) {
   
-  if ((Math.abs(x-y))<= 400){
+  if ((Math.abs(x-y) * 264)<= 400){
     return 0;
  } 
   if (someValue >= 2000 && someValue <= 2500) {
