@@ -10,7 +10,7 @@ function distanceFromHqInFeet(someValue){
 function distanceTravelledInFeet(x,y){
   return ((Math.abs(x-y))* 264);
 }
-function calculatesFarePrice() {
+function calculatesFarePrice(x,y) {
   
   if (someValue <= 400){
     return 0;
