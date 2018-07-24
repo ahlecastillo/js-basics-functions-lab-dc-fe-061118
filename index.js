@@ -4,5 +4,5 @@ function distanceFromHqInBlocks(someValue) {return Math.abs(someValue - 42);
 
 function distanceFromHqInFeet(someValue){
   distanceFromHqInBlocks(someValue);
-  return (distanceFromHqInBlocks(someValue) * 264)
+  return (distanceFromHqInBlocks(someValue) * 264);
 }
